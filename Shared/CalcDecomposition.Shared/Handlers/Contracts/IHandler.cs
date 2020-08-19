@@ -1,6 +1,6 @@
-﻿using CalcLocaliza.Shared.Commands.Contracts;
+﻿using CalcDecomposition.Shared.Commands.Contracts;
 
-namespace CalcLocaliza.Shared.Handlers.Contracts
+namespace CalcDecomposition.Shared.Handlers.Contracts
 {
     public interface IHandler<T> where T : ICommand
     {

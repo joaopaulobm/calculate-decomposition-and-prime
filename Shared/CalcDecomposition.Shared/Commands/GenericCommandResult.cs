@@ -1,6 +1,6 @@
-﻿using CalcLocaliza.Shared.Commands.Contracts;
+﻿using CalcDecomposition.Shared.Commands.Contracts;
 
-namespace CalcLocaliza.Shared.Commands
+namespace CalcDecomposition.Shared.Commands
 {
     public class GenericCommandResult : ResultController, ICommandResult
     {

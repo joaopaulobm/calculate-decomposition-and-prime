@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Builder;
 
-namespace CalcLocaliza.Shared.Middleware
+namespace CalcDecomposition.Shared.Middleware
 {
     public static class RequestValidateAccessMiddlewareExtensions
     {

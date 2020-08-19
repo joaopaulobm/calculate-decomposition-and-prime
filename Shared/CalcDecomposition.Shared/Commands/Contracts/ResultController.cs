@@ -1,4 +1,4 @@
-﻿namespace CalcLocaliza.Shared.Commands.Contracts
+﻿namespace CalcDecomposition.Shared.Commands.Contracts
 {
     public abstract class ResultController
     {

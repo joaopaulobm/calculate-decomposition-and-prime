@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace CalcLocaliza.Shared.Queries._Helpers
+namespace CalcDecomposition.Shared.Queries._Helpers
 {
     internal class ListDividersNumbers
     {

@@ -1,7 +1,7 @@
-﻿using CalcLocaliza.Shared.Commands.Contracts;
+﻿using CalcDecomposition.Shared.Commands.Contracts;
 using System.Collections.Generic;
 
-namespace CalcLocaliza.Shared.Queries
+namespace CalcDecomposition.Shared.Queries
 {
     public class CalculateDivisorResult : ResultController
     {

@@ -1,9 +1,9 @@
-﻿using CalcLocaliza.Shared.Queries;
+﻿using CalcDecomposition.Shared.Queries;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Threading.Tasks;
 
-namespace CalcLocaliza.Api.Controllers
+namespace CalcDecomposition.Api.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

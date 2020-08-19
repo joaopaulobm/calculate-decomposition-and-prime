@@ -1,5 +1,5 @@
-﻿using CalcLocaliza.Shared;
-using CalcLocaliza.Shared.Queries;
+﻿using CalcDecomposition.Shared;
+using CalcDecomposition.Shared.Queries;
 using System;
 
 namespace DecompositionCalculationApp

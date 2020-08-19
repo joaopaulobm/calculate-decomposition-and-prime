@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace CalcLocaliza.Shared.Queries._Helpers
+namespace CalcDecomposition.Shared.Queries._Helpers
 {
     internal class ListPrimesNumbers
     {

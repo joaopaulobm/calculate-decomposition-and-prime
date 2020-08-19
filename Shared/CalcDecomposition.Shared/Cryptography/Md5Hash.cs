@@ -1,7 +1,7 @@
 ﻿using System.Security.Cryptography;
 using System.Text;
 
-namespace CalcLocaliza.Shared.Cryptography
+namespace CalcDecomposition.Shared.Cryptography
 {
     public static class Md5Hash
     {

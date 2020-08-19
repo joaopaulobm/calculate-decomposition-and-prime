@@ -1,4 +1,4 @@
-﻿namespace CalcLocaliza.Shared
+﻿namespace CalcDecomposition.Shared
 {
     public static class Constants
     {

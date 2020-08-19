@@ -1,7 +1,7 @@
-﻿using CalcLocaliza.Shared.Queries._Helpers;
+﻿using CalcDecomposition.Shared.Queries._Helpers;
 using System.Linq;
 
-namespace CalcLocaliza.Shared.Queries
+namespace CalcDecomposition.Shared.Queries
 {
     public static class CalculateDivisorQueries
     {

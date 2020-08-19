@@ -1,9 +1,9 @@
-﻿using CalcLocaliza.Shared.Cryptography;
+﻿using CalcDecomposition.Shared.Cryptography;
 using Microsoft.AspNetCore.Http;
 using System;
 using System.Threading.Tasks;
 
-namespace CalcLocaliza.Shared.Middleware
+namespace CalcDecomposition.Shared.Middleware
 {
     public class ValidateAccessMiddleware
     {

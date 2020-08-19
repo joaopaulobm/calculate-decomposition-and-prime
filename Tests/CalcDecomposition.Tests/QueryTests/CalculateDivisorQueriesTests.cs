@@ -1,9 +1,9 @@
-using CalcLocaliza.Shared.Queries;
+using CalcDecomposition.Shared.Queries;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CalcLocaliza.Tests.QueryTests
+namespace CalcDecomposition.Tests.QueryTests
 {
     [TestClass]
     public class CalculateDivisorQueriesTests
