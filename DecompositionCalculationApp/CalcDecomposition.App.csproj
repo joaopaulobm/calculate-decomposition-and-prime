@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\CalcDecomposition.Domain\CalcDecomposition.Domain.csproj" />
+    <ProjectReference Include="..\Shared\CalcDecomposition.Shared\CalcDecomposition.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
