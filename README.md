@@ -11,5 +11,5 @@
 	2 - Execução da projeto da Api - CalcDecomposition.Api. <br />
 </p>
   
-  Para teste da Api, ao inicializa, já deve vir setado com a URl para interface do swagger, dessa forma é possível setar um parâmetro de entrada, e fazer a requisição. <br />
+  Para teste da Api, ao iniciá-la, já deve vir carregado com a URl para interface do swagger, dessa forma é possível setar um parâmetro de entrada, e fazer a requisição. <br />
   Url para o swagger: http://localhost:port/<b>swagger/index.html</b>
