@@ -1,5 +1,5 @@
 <h2>Tecnologias: <span>ASP.NET Core & C#.</span> </h2> 
-<h2>Aplicação que faz a decomposição de um número em todos os seus divisores, listando os divisores do número de entrada informado e os números primos (dos divisores).</h2>
+<h3>Aplicação que faz a decomposição de um número em todos os seus divisores, listando os divisores do número de entrada informado e os números primos (dos divisores).</h3>
 
 <h3>A aplicação pode ser testada de duas formas:</h3>
 
